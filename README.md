@@ -20,7 +20,7 @@ https://github1s.com/gocloudcoder/give-me-a-coffee
 
 | 用户        | 金额（元） |
 | :---------- | ---------- |
-| hs-vae      | 0.01       |
+| hs-vae      | 20+0.01    |
 | 君莫愁      | 5.21       |
 | 旷世        | 150        |
 | 卷积核      | 100        |
