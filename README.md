@@ -26,4 +26,5 @@ https://github1s.com/gocloudcoder/give-me-a-coffee
 | 卷积核      | 100        |
 | adam        | 300        |
 | Seni sevdim | 20         |
+| 晨光微雾    | 300        |
 
