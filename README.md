@@ -29,4 +29,5 @@ https://github1s.com/gocloudcoder/give-me-a-coffee
 | 晨光微凉    | 300 + 200 + 300 + 500 |
 | 花开半夏    | 100                   |
 | Ma.         | 200 + 150             |
+| 戏          | 3.88                  |
 
