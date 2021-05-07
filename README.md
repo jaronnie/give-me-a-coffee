@@ -28,5 +28,5 @@ https://github1s.com/gocloudcoder/give-me-a-coffee
 | Seni sevdim | 20                    |
 | 晨光微凉    | 300 + 200 + 300 + 500 |
 | 花开半夏    | 100                   |
-| Ma.         | 200                   |
+| Ma.         | 200 + 150             |
 
