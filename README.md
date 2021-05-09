@@ -20,7 +20,7 @@ https://github1s.com/gocloudcoder/give-me-a-coffee
 
 | 用户        | 金额（元）            |
 | :---------- | --------------------- |
-| hs-vae      | 20+0.01               |
+| hs-vae      | 20+0.01+14            |
 | 君莫愁      | 5.21                  |
 | 旷世        | 150                   |
 | 卷积核      | 100                   |
@@ -30,4 +30,5 @@ https://github1s.com/gocloudcoder/give-me-a-coffee
 | 花开半夏    | 100                   |
 | Ma.         | 200 + 150             |
 | 戏          | 3.88                  |
+| 周          | 300                   |
 
