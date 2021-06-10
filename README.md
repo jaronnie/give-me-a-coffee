@@ -31,5 +31,6 @@ https://github1s.com/gocloudcoder/give-me-a-coffee
 | Ma.         | 200 + 150             |
 | 戏          | 3.88                  |
 | 周          | 300 + 400             |
-| 总计        | 3063.1                |
+| ellie       | 80                    |
+| 总计        | 3143.1                |
 
